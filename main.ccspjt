@@ -1,0 +1,32 @@
+[PROJECT]
+Target=main.hex
+Processor_Text=PIC18F2620
+CCSVerions=5.007
+Compiler=PCH
+CCSVersion=5.007
+[Target Data]
+FileList=main.c
+[Directories]
+Include=D:\Program Files (x86)\PICC\Devices\;D:\Program Files (x86)\PICC\Drivers\;D:\Program Files (x86)\PICC\Projects\st7735_2\;D:\Program Files (x86)\PICC\Projects\st7735_2\D:\Program Files (x86)\PICC\Devices\;D:\Program Files (x86)\PICC\Projects\lpg_2620_7735_1\;D:\Program Files (x86)\PICC\Projects\lpg_2620_7735_2\;D:\Program Files (x86)\PICC\Projects\lpg_2620_7735_3\;D:\Program Files (x86)\PICC\Projects\lpg_2620_7735_5\;D:\Program Files (x86)\PICC\Projects\lpg_2620_7735_6\;D:\Program Files (x86)\PICC\Projects\lpg_2620_7735_7\;D:\Program Files (x86)\PICC\Projects\lpg_2620_7735_8\;D:\Program Files (x86)\PICC\Projects\lpg_2620_7735_spi_1\;D:\Program Files (x86)\PICC\Projects\lpg_2620_7735_spi_3\;D:\Program Files (x86)\PICC\Projects\lpg_2620_7735_spi_calisan\;D:\Program Files (x86)\PICC\Projects\lpg_2620_7735_spi_calisan_1\;D:\Program Files (x86)\PICC\Projects\lpg_2620_7735_spi_calisan_2\;D:\Program Files (x86)\PICC\Projects\lpg_2620_7735_spi_calisan_3\;D:\Program Files (x86)\PICC\Projects\lpg_2620_7735_spi_calisan_4\;D:\Program Files (x86)\PICC\Projects\lpg_2620_7735_spi\;D:\Program Files (x86)\PICC\Projects\lpg_2620_7735_spi_soft\;D:\Program Files (x86)\PICC\Projects\lpg_2620_7735_spi_soft 2\;D:\Program Files (x86)\PICC\Projects\lpg_2620_7735_spi_soft 2\D:\Program Files (x86)\PICC\Devices\;D:\Program Files (x86)\PICC\Projects\lpg_2620_7735_spi_soft 2\D:\Program Files (x86)\PICC\Devices\D:\Program Files (x86)\PICC\Devices\;D:\Program Files (x86)\PICC\Projects\lpg_2620_7735_spi_soft 2\D:\Program Files (x86)\PICC\Devices\D:\Program Files (x86)\PICC\Devices\D:\Program Files (x86)\PICC\Devices\;D:\Program Files (x86)\PICC\Projects\lpg_2620_7735_spi_soft 2\D:\Program Files (x86)\PICC\Devices\D:\Program Files (x86)\PICC\Devices\D:\Program Files (x86)\PICC\Devices\D:\Program Files (x86)\PICC\Devices\;D:\Program Files (x86)\PICC\Projects\lpg_2620_7735_spi_soft 2\D:\Program Files (x86)\PICC\Devices\D:\Program Files (x86)\PICC\Devices\D:\Program Files (x86)\PICC\Devices\D:\Program Files (x86)\PICC\Devices\D:\Program Files (x86)\PICC\Devices\;D:\Program Files (x86)\PICC\Projects\lpg_2620_7735_spi_soft 2\D:\Program Files (x86)\PICC\Devices\D:\Program Files (x86)\PICC\Devices\D:\Program Files (x86)\PICC\Devices\D:\Program Files (x86)\PICC\Devices\D:\Program Files (x86)\D:\Program Files (x86)\PICC\Devices\;D:\Program Files (x86)\PICC\Projects\lpg_2620_7735_spi_soft 2\D:\Program Files (x86)\PICC\Devices\D:\Program Files (x86)\PICC\Devices\D:\Program Files (x86)\PICC\Devices\D:\Program Files (x86)\PICC\Devices\D:\Program Files (x86)\;D:\flappy\
+[D:\Program Files (x86)\PICC\Projects\st7735_2\main]
+Type=4
+[mru-list]
+1=main.c
+[Opened Files]
+1=main.c
+2=
+3=..\..\Devices\18F2620.h
+4=
+5=graphicdisplay.h
+6=
+[main.c]
+Type=4
+[Documentation]
+1=D:\Program Files (x86)\PICC\Projects\lpg_2620_7735_spi\main Notes.txt
+1T=main Notes.txt
+1E=
+1W=0
+Count=1
+[Units]
+Count=1
+1=main (main)
