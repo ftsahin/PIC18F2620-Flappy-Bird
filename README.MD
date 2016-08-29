@@ -3,7 +3,7 @@ This is a flappy bird clone that has been converted to PIC18 from the project by
 "Arduino - Flappy Bird clone by Themistokle "mrt-prodz" Benetatos"
 Thanks to him.
 
-Fatih Þahin
+Fatih Sahin
 ftsahin@gmail.com
 
 
